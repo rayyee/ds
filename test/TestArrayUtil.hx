@@ -1,6 +1,5 @@
-﻿package test;
+﻿package;
 
-import de.polygonal.core.fmt.Sprintf;
 import de.polygonal.ds.ArrayConvert;
 import de.polygonal.ds.ArrayUtil;
 import de.polygonal.ds.Compare;

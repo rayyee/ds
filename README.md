@@ -44,6 +44,10 @@ If you want to test the latest beta build, you should pull the dev branch and ad
 
 ## Changelog
 
+### 1.4.1 (released 2013-07-08)
+
+ * modified: removed "polygonal-core" haxelib dependency
+ 
 ### 1.4.0 (released 2013-06-28)
 _support Haxe Compiler 3.0.0_
 
